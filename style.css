@@ -1,0 +1,107 @@
+.containing-page { 
+  margin: 10% 10% 2% 10%;
+  padding: 4%;
+  background-color: #eee;
+}
+
+#header {
+  padding-top: 0em;
+  padding-bottom: 1em;
+}
+
+img {
+  padding-top: 1em;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 0.5em;
+}
+
+.photo-container {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.photo-caption {
+  padding: 10px;
+}
+
+p.bg-primary {
+  font-size: 200%;
+}
+
+#winner-box {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.winner-name {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+h1 {
+  color: red;
+  font-weight: bold;
+  font-size: 70px
+}
+
+p {
+  color: blue;
+  font-weight: bold;
+  font-size: 30px
+}
+
+#about-winner {
+  color: Green;
+}
+
+#home-button {
+  color: DarkOrange;
+  font-weight: bold;
+}
+
+#reveal-button {
+  color: Indigo;
+  font-weight: bold;
+}
+
+.text-center {
+  color: LightSlateGray;
+}
+
+cite {
+  color: Sienna;
+  font-weight: bold;
+}
+
+#pic {
+  width: 40%;
+  height: auto;
+}
+
+#tyburn-button {
+  color: red;
+  font-weight: bold;
+}
+
+#fleet-button {
+  color: blue;
+  font-weight: bold;
+}
+
+h4 {
+  color: DarkBlue;
+  font-weight: bold;
+  font-size: 65px;
+}
+
+h5 {
+  color: DarkRed;
+  font-weight: bold;
+  font-size: 65px;
+}
+
+h2 {
+  color: indigo;
+  font-weight: bold;
+}
